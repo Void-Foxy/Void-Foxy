@@ -1,5 +1,6 @@
 I'm Ryan, a student at Ontario Tech University majoring in Game Development and Interactive Media
 I have a high interest in game design, AI, and Board games
+
 All secondary school work have been made in Python (with the library PyGame) or Java
 
 All University Projects have been made with C# and the Unity Engine
