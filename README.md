@@ -3,7 +3,7 @@ I have a high interest in game design, AI, and Board games
 
 All secondary school work have been made in Python (with the library PyGame) or Java
 
-All University Projects have been made with C# and the Unity Engine
+University Projects are made with either Unity and C# scripting, or Unreal using Blueprints
 
 <!---
 Void-Foxx/Void-Foxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
